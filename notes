@@ -1,0 +1,8 @@
+Ruby server from here:
+https://github.com/faye/faye-websocket-ruby
+
+js Client from here:
+https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/
+
+puma config.ru -p 2345
+
